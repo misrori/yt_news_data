@@ -4,17 +4,18 @@
     "publish_date": "2026-03-17 14:01:27+00:00",
     "feed_id": "d3f4d7b6-d5a2-413c-bbcd-f700f6bc1db2",
     "output_language": "hu",
-    "summary": "A FATF legfrissebb jelentése kiemeli, hogy a stabilcoinok növekvő népszerűségnek örvendenek az illegális pénzügyi tranzakciókban, amely felveti a KYC (Know Your Customer) bevezetésének szükségességét a stabilcoin kibocsátók számára. A jelentés megemlíti, hogy a stabilcoinpiac 2025-re 316 milliárd dolláros piaci kapitalizációt érhet el, míg a tranzakciók volumene a BTC háromszorosára nőtt. A stabilcoinok felhasználása különböző bűnözési formákhoz, például pénzmosáshoz és terrorizmus finanszírozásához kapcsolódik, aminek 84%-ában stabilcoinok játszanak szerepet. A jelentés javaslatokat is tesz a hatékonyabb szabályozásra, hogy csökkenthető legyen a stabilcoinokkal végzett illegális tevékenységek kockázata.",
+    "summary": "A FATF legfrissebb jelent\u00e9se kiemeli, hogy a stabilcoinok n\u00f6vekv\u0151 n\u00e9pszer\u0171s\u00e9gnek \u00f6rvendenek az illeg\u00e1lis p\u00e9nz\u00fcgyi tranzakci\u00f3kban, amely felveti a KYC (Know Your Customer) bevezet\u00e9s\u00e9nek sz\u00fcks\u00e9gess\u00e9g\u00e9t a stabilcoin kibocs\u00e1t\u00f3k sz\u00e1m\u00e1ra. A jelent\u00e9s megeml\u00edti, hogy a stabilcoinpiac 2025-re 316 milli\u00e1rd doll\u00e1ros piaci kapitaliz\u00e1ci\u00f3t \u00e9rhet el, m\u00edg a tranzakci\u00f3k volumene a BTC h\u00e1romszoros\u00e1ra n\u0151tt. A stabilcoinok felhaszn\u00e1l\u00e1sa k\u00fcl\u00f6nb\u00f6z\u0151 b\u0171n\u00f6z\u00e9si form\u00e1khoz, p\u00e9ld\u00e1ul p\u00e9nzmos\u00e1shoz \u00e9s terrorizmus finansz\u00edroz\u00e1s\u00e1hoz kapcsol\u00f3dik, aminek 84%-\u00e1ban stabilcoinok j\u00e1tszanak szerepet. A jelent\u00e9s javaslatokat is tesz a hat\u00e9konyabb szab\u00e1lyoz\u00e1sra, hogy cs\u00f6kkenthet\u0151 legyen a stabilcoinokkal v\u00e9gzett illeg\u00e1lis tev\u00e9kenys\u00e9gek kock\u00e1zata.",
     "key_points": [
-        "A stabilcoinok népszerűsége nő, különösen illegális tranzakciókban.",
-        "A jelentés hangsúlyozza a KYC szükségességét a stabilcoin kibocsátók számára.",
-        "A stabilcoinok bizonyos bűncselekmények, például pénzmosás és terroristák finanszírozásának eszközeivé váltak."
+        "A stabilcoinok n\u00e9pszer\u0171s\u00e9ge n\u0151, k\u00fcl\u00f6n\u00f6sen illeg\u00e1lis tranzakci\u00f3kban.",
+        "A jelent\u00e9s hangs\u00falyozza a KYC sz\u00fcks\u00e9gess\u00e9g\u00e9t a stabilcoin kibocs\u00e1t\u00f3k sz\u00e1m\u00e1ra.",
+        "A stabilcoinok bizonyos b\u0171ncselekm\u00e9nyek, p\u00e9ld\u00e1ul p\u00e9nzmos\u00e1s \u00e9s terrorist\u00e1k finansz\u00edroz\u00e1s\u00e1nak eszk\u00f6zeiv\u00e9 v\u00e1ltak."
     ],
     "main_topics": [
-        "Stabilcoinok szerepe az illegális pénzügyi tranzakciókban",
-        "Szabályozási javaslatok és KYC bevezetésének szükségessége"
+        "Stabilcoinok szerepe az illeg\u00e1lis p\u00e9nz\u00fcgyi tranzakci\u00f3kban",
+        "Szab\u00e1lyoz\u00e1si javaslatok \u00e9s KYC bevezet\u00e9s\u00e9nek sz\u00fcks\u00e9gess\u00e9ge"
     ],
     "chart_values": {
         "sentiment 1": 20
-    }
+    },
+    "author": "Coin Bureau"
 }

@@ -4,17 +4,18 @@
     "publish_date": "2026-02-19 11:05:09+00:00",
     "feed_id": "d3f4d7b6-d5a2-413c-bbcd-f700f6bc1db2",
     "output_language": "hu",
-    "summary": "A Coinbase Ventures által bemutatott jövőbeli kriptovaluta trendek 2026-ra a kripto infrastruktúrák fejlődéséről, a decentralizált pénzügyi eszközök integrációjáról és az AI technológiák világra gyakorolt hatásáról szólnak. Az egyik központi téma a valódi eszközök körüli perpétuális piacok terjedése, amelyek új kereskedési lehetőségeket nyújtanak. Továbbá az új típusú tőzsdék és piaci modellek, mint például a prop AMM kifejlesztése is várhatóan átformálja a decentralizált kereskedést. Az adatok és a biztonság terén a magánélet megőrzésére irányuló technológiák fejlesztéséről is szó esik, amely elősegíti a felhasználók bizalmát a rendszerben.",
+    "summary": "A Coinbase Ventures \u00e1ltal bemutatott j\u00f6v\u0151beli kriptovaluta trendek 2026-ra a kripto infrastrukt\u00far\u00e1k fejl\u0151d\u00e9s\u00e9r\u0151l, a decentraliz\u00e1lt p\u00e9nz\u00fcgyi eszk\u00f6z\u00f6k integr\u00e1ci\u00f3j\u00e1r\u00f3l \u00e9s az AI technol\u00f3gi\u00e1k vil\u00e1gra gyakorolt hat\u00e1s\u00e1r\u00f3l sz\u00f3lnak. Az egyik k\u00f6zponti t\u00e9ma a val\u00f3di eszk\u00f6z\u00f6k k\u00f6r\u00fcli perp\u00e9tu\u00e1lis piacok terjed\u00e9se, amelyek \u00faj keresked\u00e9si lehet\u0151s\u00e9geket ny\u00fajtanak. Tov\u00e1bb\u00e1 az \u00faj t\u00edpus\u00fa t\u0151zsd\u00e9k \u00e9s piaci modellek, mint p\u00e9ld\u00e1ul a prop AMM kifejleszt\u00e9se is v\u00e1rhat\u00f3an \u00e1tform\u00e1lja a decentraliz\u00e1lt keresked\u00e9st. Az adatok \u00e9s a biztons\u00e1g ter\u00e9n a mag\u00e1n\u00e9let meg\u0151rz\u00e9s\u00e9re ir\u00e1nyul\u00f3 technol\u00f3gi\u00e1k fejleszt\u00e9s\u00e9r\u0151l is sz\u00f3 esik, amely el\u0151seg\u00edti a felhaszn\u00e1l\u00f3k bizalm\u00e1t a rendszerben.",
     "key_points": [
-        "A valódi eszközök körüli perpétuális piacok megjelenése",
-        "Új típusú tőzsdék és piacformáló modellek",
-        "AI által vezérelt alkalmazások fejlesztésének várható terjedése"
+        "A val\u00f3di eszk\u00f6z\u00f6k k\u00f6r\u00fcli perp\u00e9tu\u00e1lis piacok megjelen\u00e9se",
+        "\u00daj t\u00edpus\u00fa t\u0151zsd\u00e9k \u00e9s piacform\u00e1l\u00f3 modellek",
+        "AI \u00e1ltal vez\u00e9relt alkalmaz\u00e1sok fejleszt\u00e9s\u00e9nek v\u00e1rhat\u00f3 terjed\u00e9se"
     ],
     "main_topics": [
-        "Piaci innovációk",
-        "AI és robotika integrációja a kriptovaluták világában"
+        "Piaci innov\u00e1ci\u00f3k",
+        "AI \u00e9s robotika integr\u00e1ci\u00f3ja a kriptovalut\u00e1k vil\u00e1g\u00e1ban"
     ],
     "chart_values": {
         "sentiment 1": 75
-    }
+    },
+    "author": "CoinGecko"
 }

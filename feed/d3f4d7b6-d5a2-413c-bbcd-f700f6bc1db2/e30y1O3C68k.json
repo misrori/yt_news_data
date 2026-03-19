@@ -4,17 +4,18 @@
     "publish_date": "2026-03-05 10:45:14+00:00",
     "feed_id": "d3f4d7b6-d5a2-413c-bbcd-f700f6bc1db2",
     "output_language": "hu",
-    "summary": "A 2026-os kriptovaluta csalásokkal foglalkozó videó szakszerűen bemutatja a legújabb megoldásokat és taktikákat, amelyekkel a csalók egyre kifinomultabb módon támadják a felhasználókat. A szociális manipulációs technikák mellett hangsúlyozza azokat a csalásokat is, amelyek megbízható oldalak, mint a Coin Market Cap, kihasználásával valósulnak meg. Az újabb fenyegetéseket, mint a malware-olt alkalmazások és a rejtett kriptovaluta támadások, is részletezi, miközben figyelmeztet a hamis MEV kereskedési botok és deepfake technológiák használatára is. A videó vége felé a figyelmeztetés, hogy a kriptovaluta csalások folyamatosan fejlődnek, és a biztonság tudatosan megközelítendő.",
+    "summary": "A 2026-os kriptovaluta csal\u00e1sokkal foglalkoz\u00f3 vide\u00f3 szakszer\u0171en bemutatja a leg\u00fajabb megold\u00e1sokat \u00e9s taktik\u00e1kat, amelyekkel a csal\u00f3k egyre kifinomultabb m\u00f3don t\u00e1madj\u00e1k a felhaszn\u00e1l\u00f3kat. A szoci\u00e1lis manipul\u00e1ci\u00f3s technik\u00e1k mellett hangs\u00falyozza azokat a csal\u00e1sokat is, amelyek megb\u00edzhat\u00f3 oldalak, mint a Coin Market Cap, kihaszn\u00e1l\u00e1s\u00e1val val\u00f3sulnak meg. Az \u00fajabb fenyeget\u00e9seket, mint a malware-olt alkalmaz\u00e1sok \u00e9s a rejtett kriptovaluta t\u00e1mad\u00e1sok, is r\u00e9szletezi, mik\u00f6zben figyelmeztet a hamis MEV keresked\u00e9si botok \u00e9s deepfake technol\u00f3gi\u00e1k haszn\u00e1lat\u00e1ra is. A vide\u00f3 v\u00e9ge fel\u00e9 a figyelmeztet\u00e9s, hogy a kriptovaluta csal\u00e1sok folyamatosan fejl\u0151dnek, \u00e9s a biztons\u00e1g tudatosan megk\u00f6zel\u00edtend\u0151.",
     "key_points": [
-        "A 2024-es évben kiderült, hogy 9.9 milliárd dollárt loptak el kriptovalutából.",
-        "Csalók megbízható forrásokra és platformokra is támaszkodnak a támadásaik során.",
-        "Új technikák, mint az ether hiding és deepfake technológia, növelik a csalások sikerességét."
+        "A 2024-es \u00e9vben kider\u00fclt, hogy 9.9 milli\u00e1rd doll\u00e1rt loptak el kriptovalut\u00e1b\u00f3l.",
+        "Csal\u00f3k megb\u00edzhat\u00f3 forr\u00e1sokra \u00e9s platformokra is t\u00e1maszkodnak a t\u00e1mad\u00e1saik sor\u00e1n.",
+        "\u00daj technik\u00e1k, mint az ether hiding \u00e9s deepfake technol\u00f3gia, n\u00f6velik a csal\u00e1sok sikeress\u00e9g\u00e9t."
     ],
     "main_topics": [
-        "Szociális manipuláció",
-        "Csalások megbízható platformokon"
+        "Szoci\u00e1lis manipul\u00e1ci\u00f3",
+        "Csal\u00e1sok megb\u00edzhat\u00f3 platformokon"
     ],
     "chart_values": {
         "sentiment 1": 15
-    }
+    },
+    "author": "CoinGecko"
 }

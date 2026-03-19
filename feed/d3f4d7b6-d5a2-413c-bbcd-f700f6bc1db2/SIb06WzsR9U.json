@@ -4,17 +4,18 @@
     "publish_date": "2026-02-23 10:43:19+00:00",
     "feed_id": "d3f4d7b6-d5a2-413c-bbcd-f700f6bc1db2",
     "output_language": "hu",
-    "summary": "Az Electrum pénztárca, amely 2011 óta működik, ideális választás a Bitcoin komoly birtokosainak, mivel rendkívüli szintű kontrollt és transzparenciát biztosít. A videó bemutatja az Electrum letöltését, telepítését, a pénztárca létrehozásának folyamatát, valamint a különböző biztonsági és titkosítási lehetőségeket, például a kétfaktoros hitelesítést. Az Electrum kiemelkedő jellemzője a díjkéz kontroll és a manuális érmekezérlés, ami lehetővé teszi a felhasználók számára, hogy saját igényeik szerint kezeljék tranzakcióikat. Ezenkívül a Lightning network támogatása is megjelenik, amely gyors és olcsó tranzakciókat tesz lehetővé. A videó hangsúlyozza, hogy bár az Electrum használata több odafigyelést igényel, a nyújtott kontroll és átláthatóság megéri a befektetett időt.",
+    "summary": "Az Electrum p\u00e9nzt\u00e1rca, amely 2011 \u00f3ta m\u0171k\u00f6dik, ide\u00e1lis v\u00e1laszt\u00e1s a Bitcoin komoly birtokosainak, mivel rendk\u00edv\u00fcli szint\u0171 kontrollt \u00e9s transzparenci\u00e1t biztos\u00edt. A vide\u00f3 bemutatja az Electrum let\u00f6lt\u00e9s\u00e9t, telep\u00edt\u00e9s\u00e9t, a p\u00e9nzt\u00e1rca l\u00e9trehoz\u00e1s\u00e1nak folyamat\u00e1t, valamint a k\u00fcl\u00f6nb\u00f6z\u0151 biztons\u00e1gi \u00e9s titkos\u00edt\u00e1si lehet\u0151s\u00e9geket, p\u00e9ld\u00e1ul a k\u00e9tfaktoros hiteles\u00edt\u00e9st. Az Electrum kiemelked\u0151 jellemz\u0151je a d\u00edjk\u00e9z kontroll \u00e9s a manu\u00e1lis \u00e9rmekez\u00e9rl\u00e9s, ami lehet\u0151v\u00e9 teszi a felhaszn\u00e1l\u00f3k sz\u00e1m\u00e1ra, hogy saj\u00e1t ig\u00e9nyeik szerint kezelj\u00e9k tranzakci\u00f3ikat. Ezenk\u00edv\u00fcl a Lightning network t\u00e1mogat\u00e1sa is megjelenik, amely gyors \u00e9s olcs\u00f3 tranzakci\u00f3kat tesz lehet\u0151v\u00e9. A vide\u00f3 hangs\u00falyozza, hogy b\u00e1r az Electrum haszn\u00e1lata t\u00f6bb odafigyel\u00e9st ig\u00e9nyel, a ny\u00fajtott kontroll \u00e9s \u00e1tl\u00e1that\u00f3s\u00e1g meg\u00e9ri a befektetett id\u0151t.",
     "key_points": [
-        "Electrum pénztárca nagyobb kontrollt és transzparenciát biztosít a Bitcoin felhasználóknak.",
-        "Az Electrum biztonsági funkciói közé tartozik a kétfaktoros hitelesítés és a manuális érmekezérlés.",
-        "A pénztárca támogatja a Lightning network-ot, lehetővé téve gyors és olcsó tranzakciókat."
+        "Electrum p\u00e9nzt\u00e1rca nagyobb kontrollt \u00e9s transzparenci\u00e1t biztos\u00edt a Bitcoin felhaszn\u00e1l\u00f3knak.",
+        "Az Electrum biztons\u00e1gi funkci\u00f3i k\u00f6z\u00e9 tartozik a k\u00e9tfaktoros hiteles\u00edt\u00e9s \u00e9s a manu\u00e1lis \u00e9rmekez\u00e9rl\u00e9s.",
+        "A p\u00e9nzt\u00e1rca t\u00e1mogatja a Lightning network-ot, lehet\u0151v\u00e9 t\u00e9ve gyors \u00e9s olcs\u00f3 tranzakci\u00f3kat."
     ],
     "main_topics": [
-        "Electrum pénztárca jellemzői",
-        "Biztonsági funkciók és privát adatok védelme"
+        "Electrum p\u00e9nzt\u00e1rca jellemz\u0151i",
+        "Biztons\u00e1gi funkci\u00f3k \u00e9s priv\u00e1t adatok v\u00e9delme"
     ],
     "chart_values": {
         "sentiment 1": 85
-    }
+    },
+    "author": "CoinGecko"
 }

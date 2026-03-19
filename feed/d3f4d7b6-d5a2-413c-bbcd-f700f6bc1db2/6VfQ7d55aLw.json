@@ -4,11 +4,11 @@
     "publish_date": "2026-03-15 17:01:53+00:00",
     "feed_id": "d3f4d7b6-d5a2-413c-bbcd-f700f6bc1db2",
     "output_language": "hu",
-    "summary": "Az Ethereum, Solana és XRP jelenlegi helyzete az altcoin piacon különböző aspektusokat tükröz. Ethereum esetében a stabilcoinok körüli aktivitás, valamint a DeFi alkalmazások jelentősége emelkedik, ugyanakkor a költségek és a verseny, például a Solanával szemben hátráltathatják a növekedést. Solana gyorsan fejlődik, mivel a stabilcoin tranzakciók és alkalmazások fontos részesedést képviselnek a piacon. XRP mint a központi bankok választása, a hosszú távú fenntarthatóság szempontjából kérdéses, mivel alacsony a hálózati használat és a bevételek. A videó rámutat arra is, hogy az altcoinok közül sok most a fundamentális értékük közelében kereskedik, ami lehetőségeket teremt a jövőbeni befektetések számára.",
+    "summary": "Az Ethereum, Solana \u00e9s XRP jelenlegi helyzete az altcoin piacon k\u00fcl\u00f6nb\u00f6z\u0151 aspektusokat t\u00fckr\u00f6z. Ethereum eset\u00e9ben a stabilcoinok k\u00f6r\u00fcli aktivit\u00e1s, valamint a DeFi alkalmaz\u00e1sok jelent\u0151s\u00e9ge emelkedik, ugyanakkor a k\u00f6lts\u00e9gek \u00e9s a verseny, p\u00e9ld\u00e1ul a Solan\u00e1val szemben h\u00e1tr\u00e1ltathatj\u00e1k a n\u00f6veked\u00e9st. Solana gyorsan fejl\u0151dik, mivel a stabilcoin tranzakci\u00f3k \u00e9s alkalmaz\u00e1sok fontos r\u00e9szesed\u00e9st k\u00e9pviselnek a piacon. XRP mint a k\u00f6zponti bankok v\u00e1laszt\u00e1sa, a hossz\u00fa t\u00e1v\u00fa fenntarthat\u00f3s\u00e1g szempontj\u00e1b\u00f3l k\u00e9rd\u00e9ses, mivel alacsony a h\u00e1l\u00f3zati haszn\u00e1lat \u00e9s a bev\u00e9telek. A vide\u00f3 r\u00e1mutat arra is, hogy az altcoinok k\u00f6z\u00fcl sok most a fundament\u00e1lis \u00e9rt\u00e9k\u00fck k\u00f6zel\u00e9ben kereskedik, ami lehet\u0151s\u00e9geket teremt a j\u00f6v\u0151beni befektet\u00e9sek sz\u00e1m\u00e1ra.",
     "key_points": [
-        "Ethereum jelentős stabilcoin aktivitással és DeFi alkalmazásokkal rendelkezik, de versenyben áll Solanával.",
-        "Solana gyorsan népszerűvé válik, különösen a stabilcoin tranzakciók miatt.",
-        "XRP hosszú távú értékajánlata kérdéses, mivel alacsony a hálózati használat."
+        "Ethereum jelent\u0151s stabilcoin aktivit\u00e1ssal \u00e9s DeFi alkalmaz\u00e1sokkal rendelkezik, de versenyben \u00e1ll Solan\u00e1val.",
+        "Solana gyorsan n\u00e9pszer\u0171v\u00e9 v\u00e1lik, k\u00fcl\u00f6n\u00f6sen a stabilcoin tranzakci\u00f3k miatt.",
+        "XRP hossz\u00fa t\u00e1v\u00fa \u00e9rt\u00e9kaj\u00e1nlata k\u00e9rd\u00e9ses, mivel alacsony a h\u00e1l\u00f3zati haszn\u00e1lat."
     ],
     "main_topics": [
         "Ethereum",
@@ -17,5 +17,6 @@
     ],
     "chart_values": {
         "sentiment 1": 65
-    }
+    },
+    "author": "Alessio Rastani"
 }

@@ -4,17 +4,18 @@
     "publish_date": "2026-03-18 14:29:48+00:00",
     "feed_id": "d3f4d7b6-d5a2-413c-bbcd-f700f6bc1db2",
     "output_language": "hu",
-    "summary": "A videó központi témája, hogy egy jelentős Satoshi-era bálna, aki 15 évig nem mozdította el Bitcoin-jait, hirtelen 9,500 BTC-t ad el, ami elsöprő pánikot okozott a piacon. A várakozásokkal ellentétben, az on-chain elemzés azt mutatja, hogy az eladás nem rontotta el a piacot, mivel az ügyletet intézményi OTC asztalokon bonyolították le. Az értékesítés egy újraosztási folyamatot indított el, amely a hagyományos pénzügyi szektor felé irányítja a Bitcoin-állományt, jelezve a likviditási infrastruktúra fejlődését. A piaci sentimentet a részvénybefektetők és hedge fundok átformují, akik ezeket a dippeket generációs vásárlási lehetőségként értékelik.",
+    "summary": "A vide\u00f3 k\u00f6zponti t\u00e9m\u00e1ja, hogy egy jelent\u0151s Satoshi-era b\u00e1lna, aki 15 \u00e9vig nem mozd\u00edtotta el Bitcoin-jait, hirtelen 9,500 BTC-t ad el, ami els\u00f6pr\u0151 p\u00e1nikot okozott a piacon. A v\u00e1rakoz\u00e1sokkal ellent\u00e9tben, az on-chain elemz\u00e9s azt mutatja, hogy az elad\u00e1s nem rontotta el a piacot, mivel az \u00fcgyletet int\u00e9zm\u00e9nyi OTC asztalokon bonyol\u00edtott\u00e1k le. Az \u00e9rt\u00e9kes\u00edt\u00e9s egy \u00fajraoszt\u00e1si folyamatot ind\u00edtott el, amely a hagyom\u00e1nyos p\u00e9nz\u00fcgyi szektor fel\u00e9 ir\u00e1ny\u00edtja a Bitcoin-\u00e1llom\u00e1nyt, jelezve a likvidit\u00e1si infrastrukt\u00fara fejl\u0151d\u00e9s\u00e9t. A piaci sentimentet a r\u00e9szv\u00e9nybefektet\u0151k \u00e9s hedge fundok \u00e1tformuj\u00ed, akik ezeket a dippeket gener\u00e1ci\u00f3s v\u00e1s\u00e1rl\u00e1si lehet\u0151s\u00e9gk\u00e9nt \u00e9rt\u00e9kelik.",
     "key_points": [
-        "A bálna Bitcoin-jainak eladása pánikot keltett, de az a valós piaci mechanizmusokat érintette.",
-        "Az eladás OTC asztalokon zajlott, elkerülve a nyilvános tőzsdék hatásait.",
-        "A hagyományos pénzügyi szektor iránti kereslet jelentősen növelte a Bitcoin likviditását."
+        "A b\u00e1lna Bitcoin-jainak elad\u00e1sa p\u00e1nikot keltett, de az a val\u00f3s piaci mechanizmusokat \u00e9rintette.",
+        "Az elad\u00e1s OTC asztalokon zajlott, elker\u00fclve a nyilv\u00e1nos t\u0151zsd\u00e9k hat\u00e1sait.",
+        "A hagyom\u00e1nyos p\u00e9nz\u00fcgyi szektor ir\u00e1nti kereslet jelent\u0151sen n\u00f6velte a Bitcoin likvidit\u00e1s\u00e1t."
     ],
     "main_topics": [
-        "Satoshi-era bálna eladás",
-        "Bitcoin likviditás és intézményi kereslet"
+        "Satoshi-era b\u00e1lna elad\u00e1s",
+        "Bitcoin likvidit\u00e1s \u00e9s int\u00e9zm\u00e9nyi kereslet"
     ],
     "chart_values": {
         "sentiment 1": 70
-    }
+    },
+    "author": "Coin Bureau"
 }

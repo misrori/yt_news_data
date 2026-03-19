@@ -4,17 +4,18 @@
     "publish_date": "2026-03-08 12:45:05+00:00",
     "feed_id": "d3f4d7b6-d5a2-413c-bbcd-f700f6bc1db2",
     "output_language": "hu",
-    "summary": "A videó a Bitcoin jövőjével kapcsolatos súlyos aggályokat vet fel, miután Mark Carpellis, a Mount Gox korábbi vezérigazgatója egy javaslatot tett a Bitcoin Core GitHub-ján, amely lehetővé tenné a 2011-ben ellopott Bitcoinok visszaszerzését. A javasolt kód egy hard fork-ot eredményezhet, amely alapjaiban kérdőjelezheti meg a Bitcoin decentralizált konszenzusát és a történelem változtathatatlanságát. Habár a közösség gyorsan elutasította a javaslatot, a videó arra figyelmeztet, hogy a Wall Street által birtokolt ETF-ek egy újfajta kormányzási hatalmat adtak a hagyományos pénzügyeknek, így a Bitcoin jövője egyre inkább függ a nagybefektetőktől.",
+    "summary": "A vide\u00f3 a Bitcoin j\u00f6v\u0151j\u00e9vel kapcsolatos s\u00falyos agg\u00e1lyokat vet fel, miut\u00e1n Mark Carpellis, a Mount Gox kor\u00e1bbi vez\u00e9rigazgat\u00f3ja egy javaslatot tett a Bitcoin Core GitHub-j\u00e1n, amely lehet\u0151v\u00e9 tenn\u00e9 a 2011-ben ellopott Bitcoinok visszaszerz\u00e9s\u00e9t. A javasolt k\u00f3d egy hard fork-ot eredm\u00e9nyezhet, amely alapjaiban k\u00e9rd\u0151jelezheti meg a Bitcoin decentraliz\u00e1lt konszenzus\u00e1t \u00e9s a t\u00f6rt\u00e9nelem v\u00e1ltoztathatatlans\u00e1g\u00e1t. Hab\u00e1r a k\u00f6z\u00f6ss\u00e9g gyorsan elutas\u00edtotta a javaslatot, a vide\u00f3 arra figyelmeztet, hogy a Wall Street \u00e1ltal birtokolt ETF-ek egy \u00fajfajta korm\u00e1nyz\u00e1si hatalmat adtak a hagyom\u00e1nyos p\u00e9nz\u00fcgyeknek, \u00edgy a Bitcoin j\u00f6v\u0151je egyre ink\u00e1bb f\u00fcgg a nagybefektet\u0151kt\u0151l.",
     "key_points": [
-        "Mark Carpellis javaslata veszélyezteti a Bitcoin immutabilitásának illúzióját.",
-        "A Bitcoin közössége gyorsan elutasította a javaslatot, de a Wall Street hatása aggasztó.",
-        "A BTC ETF-ek által gyakorolt kormányzás megkérdőjelezheti a Bitcoin decentralizált konszenzusát."
+        "Mark Carpellis javaslata vesz\u00e9lyezteti a Bitcoin immutabilit\u00e1s\u00e1nak ill\u00fazi\u00f3j\u00e1t.",
+        "A Bitcoin k\u00f6z\u00f6ss\u00e9ge gyorsan elutas\u00edtotta a javaslatot, de a Wall Street hat\u00e1sa aggaszt\u00f3.",
+        "A BTC ETF-ek \u00e1ltal gyakorolt korm\u00e1nyz\u00e1s megk\u00e9rd\u0151jelezheti a Bitcoin decentraliz\u00e1lt konszenzus\u00e1t."
     ],
     "main_topics": [
-        "Bitcoin kormányzás",
+        "Bitcoin korm\u00e1nyz\u00e1s",
         "Kriptovaluta hard fork"
     ],
     "chart_values": {
         "sentiment 1": 30
-    }
+    },
+    "author": "Coin Bureau"
 }

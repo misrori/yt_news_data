@@ -4,17 +4,18 @@
     "publish_date": "2026-03-08 07:10:40+00:00",
     "feed_id": "d3f4d7b6-d5a2-413c-bbcd-f700f6bc1db2",
     "output_language": "hu",
-    "summary": "A videó az aktuális Bitcoin árfolyamkilátásait és a márciusi piaci trendeket elemzi, megemlítve, hogy Bitcoin most a 65-66K szint felé tart, miután elutasították a 74K szintről. A trendek baljósak, a Bitcoin tovább csökkenhet, különösen mivel a tőzsdék is gyengélkednek. A videó kiemeli, hogy a mostani piaci környezetben érdemes kis mennyiségben vásárolni Bitcoin-t, de Óvatosan, mert továbbra is lefelé vezethet az út. A közeljövőbeli makrogazdasági tényezők, mint az infláció és a kamatok, szintén közvetlen hatással vannak a Bitcoin árfolyamára.",
+    "summary": "A vide\u00f3 az aktu\u00e1lis Bitcoin \u00e1rfolyamkil\u00e1t\u00e1sait \u00e9s a m\u00e1rciusi piaci trendeket elemzi, megeml\u00edtve, hogy Bitcoin most a 65-66K szint fel\u00e9 tart, miut\u00e1n elutas\u00edtott\u00e1k a 74K szintr\u0151l. A trendek balj\u00f3sak, a Bitcoin tov\u00e1bb cs\u00f6kkenhet, k\u00fcl\u00f6n\u00f6sen mivel a t\u0151zsd\u00e9k is gyeng\u00e9lkednek. A vide\u00f3 kiemeli, hogy a mostani piaci k\u00f6rnyezetben \u00e9rdemes kis mennyis\u00e9gben v\u00e1s\u00e1rolni Bitcoin-t, de \u00d3vatosan, mert tov\u00e1bbra is lefel\u00e9 vezethet az \u00fat. A k\u00f6zelj\u00f6v\u0151beli makrogazdas\u00e1gi t\u00e9nyez\u0151k, mint az infl\u00e1ci\u00f3 \u00e9s a kamatok, szint\u00e9n k\u00f6zvetlen hat\u00e1ssal vannak a Bitcoin \u00e1rfolyam\u00e1ra.",
     "key_points": [
-        "Bitcoin a 65-66K szint felé tart, miután elutasították a 74K-t.",
-        "A tőzsdei trendek gyengülnek, ami további eséshez vezethet a kriptovalutákban.",
-        "A kamatlábak csökkentésének valószínűsége csökkent az iráni konfliktus következtében."
+        "Bitcoin a 65-66K szint fel\u00e9 tart, miut\u00e1n elutas\u00edtott\u00e1k a 74K-t.",
+        "A t\u0151zsdei trendek gyeng\u00fclnek, ami tov\u00e1bbi es\u00e9shez vezethet a kriptovalut\u00e1kban.",
+        "A kamatl\u00e1bak cs\u00f6kkent\u00e9s\u00e9nek val\u00f3sz\u00edn\u0171s\u00e9ge cs\u00f6kkent az ir\u00e1ni konfliktus k\u00f6vetkezt\u00e9ben."
     ],
     "main_topics": [
         "Piaci trendek",
-        "Kamatlábak és infláció"
+        "Kamatl\u00e1bak \u00e9s infl\u00e1ci\u00f3"
     ],
     "chart_values": {
         "sentiment 1": 20
-    }
+    },
+    "author": "Ivan on Tech"
 }

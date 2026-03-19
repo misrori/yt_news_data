@@ -4,17 +4,18 @@
     "publish_date": "2026-03-06 18:00:51+00:00",
     "feed_id": "d3f4d7b6-d5a2-413c-bbcd-f700f6bc1db2",
     "output_language": "hu",
-    "summary": "A videó bemutatja, hogy a Bitcoin jelenlegi piaci helyzetét nemcsak a tőzsdén történő kiáramlások, hanem egy bonyolultabb háttérmechanizmus is befolyásolja. Az ETF-el kapcsolatos kiáramlások a Bitcoin iránti intézményi érdeklődés csökkenését sugallják, azonban az igazi helyzet az, hogy BlackRock mögött jelentős vásárlások zajlanak. A szakszerű elemzés alapján kiderül, hogy az ETF struktúra és a derivatív piac működése révén a piaci hangulat váltakozása sokkal inkább a traderek és a kisbefektetők átgondolatlan döntéseinek következménye, mintsem a mögöttes valós kereslet csökkenése. Valójában a nagybefektetők a pánikban eladott Bitcoinot felvásárolják, míg a retail befektetők rossz helyzetben vannak, mivel a hírek torzítják a valóságot.",
+    "summary": "A vide\u00f3 bemutatja, hogy a Bitcoin jelenlegi piaci helyzet\u00e9t nemcsak a t\u0151zsd\u00e9n t\u00f6rt\u00e9n\u0151 ki\u00e1raml\u00e1sok, hanem egy bonyolultabb h\u00e1tt\u00e9rmechanizmus is befoly\u00e1solja. Az ETF-el kapcsolatos ki\u00e1raml\u00e1sok a Bitcoin ir\u00e1nti int\u00e9zm\u00e9nyi \u00e9rdekl\u0151d\u00e9s cs\u00f6kken\u00e9s\u00e9t sugallj\u00e1k, azonban az igazi helyzet az, hogy BlackRock m\u00f6g\u00f6tt jelent\u0151s v\u00e1s\u00e1rl\u00e1sok zajlanak. A szakszer\u0171 elemz\u00e9s alapj\u00e1n kider\u00fcl, hogy az ETF strukt\u00fara \u00e9s a derivat\u00edv piac m\u0171k\u00f6d\u00e9se r\u00e9v\u00e9n a piaci hangulat v\u00e1ltakoz\u00e1sa sokkal ink\u00e1bb a traderek \u00e9s a kisbefektet\u0151k \u00e1tgondolatlan d\u00f6nt\u00e9seinek k\u00f6vetkezm\u00e9nye, mintsem a m\u00f6g\u00f6ttes val\u00f3s kereslet cs\u00f6kken\u00e9se. Val\u00f3j\u00e1ban a nagybefektet\u0151k a p\u00e1nikban eladott Bitcoinot felv\u00e1s\u00e1rolj\u00e1k, m\u00edg a retail befektet\u0151k rossz helyzetben vannak, mivel a h\u00edrek torz\u00edtj\u00e1k a val\u00f3s\u00e1got.",
     "key_points": [
-        "A Bitcoin mostani RSI értéke a legalacsonyabb a történelem során.",
-        "A BlackRock jelentős mennyiségű Bitcoin-vásárlása a piaci kiáramlások ellenére történik.",
-        "Az ETF kiáramlások mechanikai okok miatt nem tükrözik az intézményi érdeklődés csökkenését."
+        "A Bitcoin mostani RSI \u00e9rt\u00e9ke a legalacsonyabb a t\u00f6rt\u00e9nelem sor\u00e1n.",
+        "A BlackRock jelent\u0151s mennyis\u00e9g\u0171 Bitcoin-v\u00e1s\u00e1rl\u00e1sa a piaci ki\u00e1raml\u00e1sok ellen\u00e9re t\u00f6rt\u00e9nik.",
+        "Az ETF ki\u00e1raml\u00e1sok mechanikai okok miatt nem t\u00fckr\u00f6zik az int\u00e9zm\u00e9nyi \u00e9rdekl\u0151d\u00e9s cs\u00f6kken\u00e9s\u00e9t."
     ],
     "main_topics": [
         "Bitcoin piaci helyzete",
-        "ETF struktúra és intézményi vásárlások"
+        "ETF strukt\u00fara \u00e9s int\u00e9zm\u00e9nyi v\u00e1s\u00e1rl\u00e1sok"
     ],
     "chart_values": {
         "sentiment 1": 30
-    }
+    },
+    "author": "Coin Bureau"
 }

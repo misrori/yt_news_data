@@ -4,17 +4,18 @@
     "publish_date": "2026-02-23 15:56:36+00:00",
     "feed_id": "d3f4d7b6-d5a2-413c-bbcd-f700f6bc1db2",
     "output_language": "hu",
-    "summary": "A Bitcoin piaci helyzete jelenleg rendkívül negatív, a trendek és a befektetői hangulat is peszimista. A videóban beszélgetés zajlik a közelmúlt árfolyamcsökkenéseiről, és hogy ezt követően elérkezhet a piac alja. Zach Mir véleménye szerint a sentiment alapján közel állunk a legalacsonyabb pontokhoz, azonban újabb csökkenések sem kizártak. A MicroStrategy eladásainak spekulációja is szóba kerül, mint lehetséges belépési pont a befektetők számára. Bár a technikai elemzések előtt állunk, hosszú távon optimista nézetek is vannak, amennyiben kedvező bejelentések érkeznek a Bitcoin bányászati lehetőségeiről.",
+    "summary": "A Bitcoin piaci helyzete jelenleg rendk\u00edv\u00fcl negat\u00edv, a trendek \u00e9s a befektet\u0151i hangulat is peszimista. A vide\u00f3ban besz\u00e9lget\u00e9s zajlik a k\u00f6zelm\u00falt \u00e1rfolyamcs\u00f6kken\u00e9seir\u0151l, \u00e9s hogy ezt k\u00f6vet\u0151en el\u00e9rkezhet a piac alja. Zach Mir v\u00e9lem\u00e9nye szerint a sentiment alapj\u00e1n k\u00f6zel \u00e1llunk a legalacsonyabb pontokhoz, azonban \u00fajabb cs\u00f6kken\u00e9sek sem kiz\u00e1rtak. A MicroStrategy elad\u00e1sainak spekul\u00e1ci\u00f3ja is sz\u00f3ba ker\u00fcl, mint lehets\u00e9ges bel\u00e9p\u00e9si pont a befektet\u0151k sz\u00e1m\u00e1ra. B\u00e1r a technikai elemz\u00e9sek el\u0151tt \u00e1llunk, hossz\u00fa t\u00e1von optimista n\u00e9zetek is vannak, amennyiben kedvez\u0151 bejelent\u00e9sek \u00e9rkeznek a Bitcoin b\u00e1ny\u00e1szati lehet\u0151s\u00e9geir\u0151l.",
     "key_points": [
-        "Bitcoin árfolyama 50%-ot csökkent a csúcsához képest.",
-        "A piaci sentiment negatív, ami a befektetők félelmét tükrözi.",
-        "A MicroStrategy eladásai komoly hatással lehetnek a piacra."
+        "Bitcoin \u00e1rfolyama 50%-ot cs\u00f6kkent a cs\u00facs\u00e1hoz k\u00e9pest.",
+        "A piaci sentiment negat\u00edv, ami a befektet\u0151k f\u00e9lelm\u00e9t t\u00fckr\u00f6zi.",
+        "A MicroStrategy elad\u00e1sai komoly hat\u00e1ssal lehetnek a piacra."
     ],
     "main_topics": [
         "Bitcoin piaci helyzet",
-        "Sentiment és technikai elemzés"
+        "Sentiment \u00e9s technikai elemz\u00e9s"
     ],
     "chart_values": {
         "sentiment 1": 30
-    }
+    },
+    "author": "Alessio Rastani"
 }

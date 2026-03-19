@@ -4,17 +4,18 @@
     "publish_date": "2026-03-05 14:00:51+00:00",
     "feed_id": "d3f4d7b6-d5a2-413c-bbcd-f700f6bc1db2",
     "output_language": "hu",
-    "summary": "A BlackRock által elindított tokenizációs hullám célja a hagyományos pénzügyek és a kriptovaluták integrálása, de a háttérben álló szándékok aggasztóak lehetnek. A Wall Street ennek révén nem csupán az eszközök tokenizációját célzó efficienciát, hanem a kriptovaluták feletti kontroll megteremtését is próbálja érvényesíteni, amely a decentralizáció elveit veszélyezteti. Az újonnan bevezetett ERC 3643 szabvány megköveteli a felhasználók azonosítását, ami megkérdőjelezi a decentralizált pénzügyi rendszerek működését. Az intézmények által irányított tokenizáció ördögi körbe helyezi a kriptovaluták alapelveit, és aggodalmakat vet fel a jövőbeli pénzügyi rendszerek átalakulásával kapcsolatban.",
+    "summary": "A BlackRock \u00e1ltal elind\u00edtott tokeniz\u00e1ci\u00f3s hull\u00e1m c\u00e9lja a hagyom\u00e1nyos p\u00e9nz\u00fcgyek \u00e9s a kriptovalut\u00e1k integr\u00e1l\u00e1sa, de a h\u00e1tt\u00e9rben \u00e1ll\u00f3 sz\u00e1nd\u00e9kok aggaszt\u00f3ak lehetnek. A Wall Street ennek r\u00e9v\u00e9n nem csup\u00e1n az eszk\u00f6z\u00f6k tokeniz\u00e1ci\u00f3j\u00e1t c\u00e9lz\u00f3 efficienci\u00e1t, hanem a kriptovalut\u00e1k feletti kontroll megteremt\u00e9s\u00e9t is pr\u00f3b\u00e1lja \u00e9rv\u00e9nyes\u00edteni, amely a decentraliz\u00e1ci\u00f3 elveit vesz\u00e9lyezteti. Az \u00fajonnan bevezetett ERC 3643 szabv\u00e1ny megk\u00f6veteli a felhaszn\u00e1l\u00f3k azonos\u00edt\u00e1s\u00e1t, ami megk\u00e9rd\u0151jelezi a decentraliz\u00e1lt p\u00e9nz\u00fcgyi rendszerek m\u0171k\u00f6d\u00e9s\u00e9t. Az int\u00e9zm\u00e9nyek \u00e1ltal ir\u00e1ny\u00edtott tokeniz\u00e1ci\u00f3 \u00f6rd\u00f6gi k\u00f6rbe helyezi a kriptovalut\u00e1k alapelveit, \u00e9s aggodalmakat vet fel a j\u00f6v\u0151beli p\u00e9nz\u00fcgyi rendszerek \u00e1talakul\u00e1s\u00e1val kapcsolatban.",
     "key_points": [
-        "BlackRock új tokenizációs alapja, a Bidd, a hagyományos pénzügyek és a kriptovaluták közötti hidat épít.",
-        "A tokenizált eszközök mozgása szigorú KYC és AML ellenőrzés alatt áll.",
-        "A decentralizált pénzügyi rendszerek érdekeit veszélyezteti a Wall Street ellentmondásos integrációja."
+        "BlackRock \u00faj tokeniz\u00e1ci\u00f3s alapja, a Bidd, a hagyom\u00e1nyos p\u00e9nz\u00fcgyek \u00e9s a kriptovalut\u00e1k k\u00f6z\u00f6tti hidat \u00e9p\u00edt.",
+        "A tokeniz\u00e1lt eszk\u00f6z\u00f6k mozg\u00e1sa szigor\u00fa KYC \u00e9s AML ellen\u0151rz\u00e9s alatt \u00e1ll.",
+        "A decentraliz\u00e1lt p\u00e9nz\u00fcgyi rendszerek \u00e9rdekeit vesz\u00e9lyezteti a Wall Street ellentmond\u00e1sos integr\u00e1ci\u00f3ja."
     ],
     "main_topics": [
-        "Tokenizációs hullám",
-        "Intézményi ellenőrzés"
+        "Tokeniz\u00e1ci\u00f3s hull\u00e1m",
+        "Int\u00e9zm\u00e9nyi ellen\u0151rz\u00e9s"
     ],
     "chart_values": {
         "sentiment 1": 30
-    }
+    },
+    "author": "Coin Bureau"
 }

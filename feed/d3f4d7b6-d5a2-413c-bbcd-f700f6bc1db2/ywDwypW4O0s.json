@@ -4,17 +4,18 @@
     "publish_date": "2026-03-06 09:20:55+00:00",
     "feed_id": "d3f4d7b6-d5a2-413c-bbcd-f700f6bc1db2",
     "output_language": "hu",
-    "summary": "A Bitcoin jelenlegi piaci viselkedése alapján a videó hangsúlyozza, hogy az árfolyam a 74.2 dolláros ellenállási szint körül pattog, megmutatva a piac bearish hangulatát. A részvények piacának gyengülése is gyanús, mivel több technológiai részvény, például a Google és az AMD, bearish trendbe lépett. Míg Bitcoin még mindig technikailag a napi bull trend keretein belül mozoghat, a videó hangsúlyozza, hogy ha a részvénypiacok tovább esnek, az különösen kedvezőtlen hatással lehet a Bitcoinra. A tanácsadás irányvonala a piaci mozgások tudatos követésére és a megfelelő pozicionálásra vonatkozik, különösen a mozgóátlagok figyelembevételével.",
+    "summary": "A Bitcoin jelenlegi piaci viselked\u00e9se alapj\u00e1n a vide\u00f3 hangs\u00falyozza, hogy az \u00e1rfolyam a 74.2 doll\u00e1ros ellen\u00e1ll\u00e1si szint k\u00f6r\u00fcl pattog, megmutatva a piac bearish hangulat\u00e1t. A r\u00e9szv\u00e9nyek piac\u00e1nak gyeng\u00fcl\u00e9se is gyan\u00fas, mivel t\u00f6bb technol\u00f3giai r\u00e9szv\u00e9ny, p\u00e9ld\u00e1ul a Google \u00e9s az AMD, bearish trendbe l\u00e9pett. M\u00edg Bitcoin m\u00e9g mindig technikailag a napi bull trend keretein bel\u00fcl mozoghat, a vide\u00f3 hangs\u00falyozza, hogy ha a r\u00e9szv\u00e9nypiacok tov\u00e1bb esnek, az k\u00fcl\u00f6n\u00f6sen kedvez\u0151tlen hat\u00e1ssal lehet a Bitcoinra. A tan\u00e1csad\u00e1s ir\u00e1nyvonala a piaci mozg\u00e1sok tudatos k\u00f6vet\u00e9s\u00e9re \u00e9s a megfelel\u0151 pozicion\u00e1l\u00e1sra vonatkozik, k\u00fcl\u00f6n\u00f6sen a mozg\u00f3\u00e1tlagok figyelembev\u00e9tel\u00e9vel.",
     "key_points": [
-        "Bitcoin ellenállás a 74.2 dolláros szinten.",
-        "A részvények bearish trendje káros hatással lehet a Bitcoinra.",
-        "A piaci mozgások figyelemmel kísérése és megfelelő pozicionálás szükséges."
+        "Bitcoin ellen\u00e1ll\u00e1s a 74.2 doll\u00e1ros szinten.",
+        "A r\u00e9szv\u00e9nyek bearish trendje k\u00e1ros hat\u00e1ssal lehet a Bitcoinra.",
+        "A piaci mozg\u00e1sok figyelemmel k\u00eds\u00e9r\u00e9se \u00e9s megfelel\u0151 pozicion\u00e1l\u00e1s sz\u00fcks\u00e9ges."
     ],
     "main_topics": [
         "Bitcoin piaci helyzete",
-        "Részvénypiacok és azok hatása a kriptovalutákra"
+        "R\u00e9szv\u00e9nypiacok \u00e9s azok hat\u00e1sa a kriptovalut\u00e1kra"
     ],
     "chart_values": {
         "sentiment 1": 30
-    }
+    },
+    "author": "Ivan on Tech"
 }

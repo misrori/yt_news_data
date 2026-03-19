@@ -4,17 +4,18 @@
     "publish_date": "2026-03-08 07:11:27+00:00",
     "feed_id": "d3f4d7b6-d5a2-413c-bbcd-f700f6bc1db2",
     "output_language": "hu",
-    "summary": "A Bitcoin piaci helyzete alapján a videó elemzése a közelmúltbeli ármozgásokról szól, különös figyelmet szentelve a februári drámai esés utáni korrekciós rallyra. A prezentáció szerint a jelenlegi árfolyambökken arra utal, hogy nem alakult ki megerősített alj, mivel a rally struktúrája három hullámból áll, ami korrekciós mintázatot tükröz. A befektetői érzés változása, amely az alacsony félelemtől a mérsékelt félelemig terjedt, szintén nem elegendő a tartós növekedés biztosításához. Az elemző valószínűnek tartja, hogy újabb csökkenés következhet be, különösen a tőzsdék esetleges gyengülése miatt.",
+    "summary": "A Bitcoin piaci helyzete alapj\u00e1n a vide\u00f3 elemz\u00e9se a k\u00f6zelm\u00faltbeli \u00e1rmozg\u00e1sokr\u00f3l sz\u00f3l, k\u00fcl\u00f6n\u00f6s figyelmet szentelve a febru\u00e1ri dr\u00e1mai es\u00e9s ut\u00e1ni korrekci\u00f3s rallyra. A prezent\u00e1ci\u00f3 szerint a jelenlegi \u00e1rfolyamb\u00f6kken arra utal, hogy nem alakult ki meger\u0151s\u00edtett alj, mivel a rally strukt\u00far\u00e1ja h\u00e1rom hull\u00e1mb\u00f3l \u00e1ll, ami korrekci\u00f3s mint\u00e1zatot t\u00fckr\u00f6z. A befektet\u0151i \u00e9rz\u00e9s v\u00e1ltoz\u00e1sa, amely az alacsony f\u00e9lelemt\u0151l a m\u00e9rs\u00e9kelt f\u00e9lelemig terjedt, szint\u00e9n nem elegend\u0151 a tart\u00f3s n\u00f6veked\u00e9s biztos\u00edt\u00e1s\u00e1hoz. Az elemz\u0151 val\u00f3sz\u00edn\u0171nek tartja, hogy \u00fajabb cs\u00f6kken\u00e9s k\u00f6vetkezhet be, k\u00fcl\u00f6n\u00f6sen a t\u0151zsd\u00e9k esetleges gyeng\u00fcl\u00e9se miatt.",
     "key_points": [
-        "A februári árfolyamcsökkenés után a jelenlegi rally korrekciós szerkezetet mutat.",
-        "Nincs elegendő erős jel arra, hogy a Bitcoin elérte az aljat.",
-        "A befektetői hangulat mérsékelt félelemmel jellemezhető, ami nem kedvez a bullish tendenciának."
+        "A febru\u00e1ri \u00e1rfolyamcs\u00f6kken\u00e9s ut\u00e1n a jelenlegi rally korrekci\u00f3s szerkezetet mutat.",
+        "Nincs elegend\u0151 er\u0151s jel arra, hogy a Bitcoin el\u00e9rte az aljat.",
+        "A befektet\u0151i hangulat m\u00e9rs\u00e9kelt f\u00e9lelemmel jellemezhet\u0151, ami nem kedvez a bullish tendenci\u00e1nak."
     ],
     "main_topics": [
-        "Bitcoin ármozgás elemzése",
-        "Piaci hangulat és reakciók"
+        "Bitcoin \u00e1rmozg\u00e1s elemz\u00e9se",
+        "Piaci hangulat \u00e9s reakci\u00f3k"
     ],
     "chart_values": {
         "sentiment 1": 30
-    }
+    },
+    "author": "Alessio Rastani"
 }

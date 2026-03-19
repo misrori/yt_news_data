@@ -4,17 +4,18 @@
     "publish_date": "2026-02-19 10:28:57+00:00",
     "feed_id": "d3f4d7b6-d5a2-413c-bbcd-f700f6bc1db2",
     "output_language": "hu",
-    "summary": "A videóban a Bitcoin és Ethereum piaci mozgásait elemzik, kiemelve, hogy a jelenlegi helyzet egy fontos támogatási szint tesztelésével kapcsolatos. A szakértő figyelmeztet, hogy ha a Bitcoin alatt 66-67 ezer dollárra esik, további csökkenés várható, akár 40 ezer dolláros szintig. A beszélgetés kitér a piaci trendekre is, amelyek továbbra is bearish irányba mutatnak, és hangsúlyozza a rövid távú lehetőségeket a kereskedők számára. A Coinbase Layer 2-ből való kilépése további aggodalmakat vet fel a piaci részesedés csökkenésével kapcsolatban. A videó a közelgő adózási problémákkal is foglalkozik, különösen az uniós országokban, amelyek a nem realizált nyereség adóztatását vezetik be.",
+    "summary": "A vide\u00f3ban a Bitcoin \u00e9s Ethereum piaci mozg\u00e1sait elemzik, kiemelve, hogy a jelenlegi helyzet egy fontos t\u00e1mogat\u00e1si szint tesztel\u00e9s\u00e9vel kapcsolatos. A szak\u00e9rt\u0151 figyelmeztet, hogy ha a Bitcoin alatt 66-67 ezer doll\u00e1rra esik, tov\u00e1bbi cs\u00f6kken\u00e9s v\u00e1rhat\u00f3, ak\u00e1r 40 ezer doll\u00e1ros szintig. A besz\u00e9lget\u00e9s kit\u00e9r a piaci trendekre is, amelyek tov\u00e1bbra is bearish ir\u00e1nyba mutatnak, \u00e9s hangs\u00falyozza a r\u00f6vid t\u00e1v\u00fa lehet\u0151s\u00e9geket a keresked\u0151k sz\u00e1m\u00e1ra. A Coinbase Layer 2-b\u0151l val\u00f3 kil\u00e9p\u00e9se tov\u00e1bbi aggodalmakat vet fel a piaci r\u00e9szesed\u00e9s cs\u00f6kken\u00e9s\u00e9vel kapcsolatban. A vide\u00f3 a k\u00f6zelg\u0151 ad\u00f3z\u00e1si probl\u00e9m\u00e1kkal is foglalkozik, k\u00fcl\u00f6n\u00f6sen az uni\u00f3s orsz\u00e1gokban, amelyek a nem realiz\u00e1lt nyeres\u00e9g ad\u00f3ztat\u00e1s\u00e1t vezetik be.",
     "key_points": [
-        "A Bitcoin jelenlegi támasza 66-67 ezer dollár körül van.",
-        "Ha ez a szint megsérül, 40 ezer dollár alá is eshet.",
-        "A Coinbase a Layer 2-t elhagyja, ami negatív hatással lesz a piaci helyzetre."
+        "A Bitcoin jelenlegi t\u00e1masza 66-67 ezer doll\u00e1r k\u00f6r\u00fcl van.",
+        "Ha ez a szint megs\u00e9r\u00fcl, 40 ezer doll\u00e1r al\u00e1 is eshet.",
+        "A Coinbase a Layer 2-t elhagyja, ami negat\u00edv hat\u00e1ssal lesz a piaci helyzetre."
     ],
     "main_topics": [
-        "Bitcoin árfolyama és piaci helyzete",
-        "Coinbase és Layer 2 tranzakciók"
+        "Bitcoin \u00e1rfolyama \u00e9s piaci helyzete",
+        "Coinbase \u00e9s Layer 2 tranzakci\u00f3k"
     ],
     "chart_values": {
         "sentiment 1": 20
-    }
+    },
+    "author": "Ivan on Tech"
 }

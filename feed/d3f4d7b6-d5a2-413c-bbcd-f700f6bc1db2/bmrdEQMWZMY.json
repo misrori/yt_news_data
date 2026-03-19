@@ -4,17 +4,18 @@
     "publish_date": "2026-02-28 14:01:04+00:00",
     "feed_id": "d3f4d7b6-d5a2-413c-bbcd-f700f6bc1db2",
     "output_language": "hu",
-    "summary": "A Terraform Labs által benyújtott keresetben az áll, hogy a Jane Street Group manipulálta a kripto piacot a TerraUSD és Luna összeomlása során, kihasználva a belső információkat. A kereset szerint a Jane Street kereskedői előnyhöz jutottak azáltal, hogy valós időben hozzáfértek Terraform információihoz, ami lehetővé tette számukra, hogy időben csökkentsék kockázataikat, miközben a piacon pánik tapasztaltak. A Jane Street tagadja a vádakat, és a pert megalapozatlannak tartja, mondván, hogy a veszteségeket a Terraform hiba okozta. A bírósági eljárás kimenetele a felfedezési szakaszra és az azon belüli bizonyítékok összegyűjtésére fog épülni, amely elengedhetetlen a vádak alátámasztásához. Ezen túlmenően a per megítélheti, hogy a piacon lévő big trading firmek tevékenységei milyen hatással voltak a kripto ökoszisztémára, egy olyan időszakban, amikor a bizalom már így is csökkent a közösségben.",
+    "summary": "A Terraform Labs \u00e1ltal beny\u00fajtott keresetben az \u00e1ll, hogy a Jane Street Group manipul\u00e1lta a kripto piacot a TerraUSD \u00e9s Luna \u00f6sszeoml\u00e1sa sor\u00e1n, kihaszn\u00e1lva a bels\u0151 inform\u00e1ci\u00f3kat. A kereset szerint a Jane Street keresked\u0151i el\u0151nyh\u00f6z jutottak az\u00e1ltal, hogy val\u00f3s id\u0151ben hozz\u00e1f\u00e9rtek Terraform inform\u00e1ci\u00f3ihoz, ami lehet\u0151v\u00e9 tette sz\u00e1mukra, hogy id\u0151ben cs\u00f6kkents\u00e9k kock\u00e1zataikat, mik\u00f6zben a piacon p\u00e1nik tapasztaltak. A Jane Street tagadja a v\u00e1dakat, \u00e9s a pert megalapozatlannak tartja, mondv\u00e1n, hogy a vesztes\u00e9geket a Terraform hiba okozta. A b\u00edr\u00f3s\u00e1gi elj\u00e1r\u00e1s kimenetele a felfedez\u00e9si szakaszra \u00e9s az azon bel\u00fcli bizony\u00edt\u00e9kok \u00f6sszegy\u0171jt\u00e9s\u00e9re fog \u00e9p\u00fclni, amely elengedhetetlen a v\u00e1dak al\u00e1t\u00e1maszt\u00e1s\u00e1hoz. Ezen t\u00falmen\u0151en a per meg\u00edt\u00e9lheti, hogy a piacon l\u00e9v\u0151 big trading firmek tev\u00e9kenys\u00e9gei milyen hat\u00e1ssal voltak a kripto \u00f6kosziszt\u00e9m\u00e1ra, egy olyan id\u0151szakban, amikor a bizalom m\u00e1r \u00edgy is cs\u00f6kkent a k\u00f6z\u00f6ss\u00e9gben.",
     "key_points": [
-        "A Terraform Labs keresetet indított a Jane Street Group ellen, állítva, hogy manipulálták a kripto piacot.",
-        "Jane Street tagadja a vádakat, és a pert az állítások megalapozatlanságára hivatkozva akarja megölni.",
-        "A bírósági eljárás kimenetele nagyban függ a felfedezési szakasztól és a bizonyítékok bemutatásától."
+        "A Terraform Labs keresetet ind\u00edtott a Jane Street Group ellen, \u00e1ll\u00edtva, hogy manipul\u00e1lt\u00e1k a kripto piacot.",
+        "Jane Street tagadja a v\u00e1dakat, \u00e9s a pert az \u00e1ll\u00edt\u00e1sok megalapozatlans\u00e1g\u00e1ra hivatkozva akarja meg\u00f6lni.",
+        "A b\u00edr\u00f3s\u00e1gi elj\u00e1r\u00e1s kimenetele nagyban f\u00fcgg a felfedez\u00e9si szakaszt\u00f3l \u00e9s a bizony\u00edt\u00e9kok bemutat\u00e1s\u00e1t\u00f3l."
     ],
     "main_topics": [
-        "Kripto piac manipuláció",
-        "Belső információk felhasználása"
+        "Kripto piac manipul\u00e1ci\u00f3",
+        "Bels\u0151 inform\u00e1ci\u00f3k felhaszn\u00e1l\u00e1sa"
     ],
     "chart_values": {
         "sentiment 1": 30
-    }
+    },
+    "author": "Coin Bureau"
 }

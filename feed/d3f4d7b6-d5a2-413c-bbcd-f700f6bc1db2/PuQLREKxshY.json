@@ -4,17 +4,18 @@
     "publish_date": "2026-02-24 14:00:44+00:00",
     "feed_id": "d3f4d7b6-d5a2-413c-bbcd-f700f6bc1db2",
     "output_language": "hu",
-    "summary": "A videó a paper Bitcoin fogalmát és hatását vizsgálja a Bitcoin piacára. A paper Bitcoin olyan befektetéseket jelöl, amelyek közvetett Bitcoin expozíciót kínálnak, mint például határidős ügyletek, ETF-ek és a tőzsdéken tartott egyenlegek. A videó rámutat arra, hogy a paper Bitcoin túlsúlyban van a tényleges BTC-hez képest, ami növelheti a piac instabilitását. Emellett az NFT-ek és más papíralapú Bitcoin kibocsátók mögött rejlő kockázatok is szóba kerülnek, különös tekintettel a kriptovaluta tőzsdék biztonságára és átláthatóságára. A jövőre vonatkozóan a videó elképzelése szerint a paper Bitcoin alapvetően befolyásolja a keresletet és a Bitcoin árfolyamát, serkentve a mainstream elfogadást, de komoly kockázatok is fennállnak.",
+    "summary": "A vide\u00f3 a paper Bitcoin fogalm\u00e1t \u00e9s hat\u00e1s\u00e1t vizsg\u00e1lja a Bitcoin piac\u00e1ra. A paper Bitcoin olyan befektet\u00e9seket jel\u00f6l, amelyek k\u00f6zvetett Bitcoin expoz\u00edci\u00f3t k\u00edn\u00e1lnak, mint p\u00e9ld\u00e1ul hat\u00e1rid\u0151s \u00fcgyletek, ETF-ek \u00e9s a t\u0151zsd\u00e9ken tartott egyenlegek. A vide\u00f3 r\u00e1mutat arra, hogy a paper Bitcoin t\u00fals\u00falyban van a t\u00e9nyleges BTC-hez k\u00e9pest, ami n\u00f6velheti a piac instabilit\u00e1s\u00e1t. Emellett az NFT-ek \u00e9s m\u00e1s pap\u00edralap\u00fa Bitcoin kibocs\u00e1t\u00f3k m\u00f6g\u00f6tt rejl\u0151 kock\u00e1zatok is sz\u00f3ba ker\u00fclnek, k\u00fcl\u00f6n\u00f6s tekintettel a kriptovaluta t\u0151zsd\u00e9k biztons\u00e1g\u00e1ra \u00e9s \u00e1tl\u00e1that\u00f3s\u00e1g\u00e1ra. A j\u00f6v\u0151re vonatkoz\u00f3an a vide\u00f3 elk\u00e9pzel\u00e9se szerint a paper Bitcoin alapvet\u0151en befoly\u00e1solja a keresletet \u00e9s a Bitcoin \u00e1rfolyam\u00e1t, serkentve a mainstream elfogad\u00e1st, de komoly kock\u00e1zatok is fenn\u00e1llnak.",
     "key_points": [
-        "A paper Bitcoin közvetett Bitcoin expozíciót nyújt, amely túlsúlyban van a tényleges BTC-vel szemben.",
-        "A kriptovaluta tőzsdék és ETF-ek jelentős hatással vannak a Bitcoin árfolyamára és a piac stabilitására.",
-        "A paper Bitcoin kibocsátásának átláthatatlansága és a hozzá kapcsolódó kockázatok növelhetik a piaci instabilitást."
+        "A paper Bitcoin k\u00f6zvetett Bitcoin expoz\u00edci\u00f3t ny\u00fajt, amely t\u00fals\u00falyban van a t\u00e9nyleges BTC-vel szemben.",
+        "A kriptovaluta t\u0151zsd\u00e9k \u00e9s ETF-ek jelent\u0151s hat\u00e1ssal vannak a Bitcoin \u00e1rfolyam\u00e1ra \u00e9s a piac stabilit\u00e1s\u00e1ra.",
+        "A paper Bitcoin kibocs\u00e1t\u00e1s\u00e1nak \u00e1tl\u00e1thatatlans\u00e1ga \u00e9s a hozz\u00e1 kapcsol\u00f3d\u00f3 kock\u00e1zatok n\u00f6velhetik a piaci instabilit\u00e1st."
     ],
     "main_topics": [
-        "Paper Bitcoin fogalma és hatásai",
-        "Kriptovaluta tőzsdék és ETF-ek szerepe"
+        "Paper Bitcoin fogalma \u00e9s hat\u00e1sai",
+        "Kriptovaluta t\u0151zsd\u00e9k \u00e9s ETF-ek szerepe"
     ],
     "chart_values": {
         "sentiment 1": 70
-    }
+    },
+    "author": "Coin Bureau"
 }

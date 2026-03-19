@@ -4,17 +4,18 @@
     "publish_date": "2026-03-04 05:32:16+00:00",
     "feed_id": "d3f4d7b6-d5a2-413c-bbcd-f700f6bc1db2",
     "output_language": "hu",
-    "summary": "A videó a globális tőzsdék drámai visszaesésére összpontosít, különösen Dél-Korea 11%-os esésére. A gyenge piaci helyzetet a Közel-Keleti konfliktus okozza, amely az olaj- és gázellátás csökkenésével jár. A szakértő véleménye szerint a S&P 500 index is veszélyben van, és ha a globális piacok továbbra is gyengülnek, az Bitcoinra is hatással lesz. A videó hangsúlyozza a rövid távú kereskedési lehetőségeket a csökkenő trendekben, különösen egyes kriptovaluták, mint a Solana vagy a Near esetében.",
+    "summary": "A vide\u00f3 a glob\u00e1lis t\u0151zsd\u00e9k dr\u00e1mai visszaes\u00e9s\u00e9re \u00f6sszpontos\u00edt, k\u00fcl\u00f6n\u00f6sen D\u00e9l-Korea 11%-os es\u00e9s\u00e9re. A gyenge piaci helyzetet a K\u00f6zel-Keleti konfliktus okozza, amely az olaj- \u00e9s g\u00e1zell\u00e1t\u00e1s cs\u00f6kken\u00e9s\u00e9vel j\u00e1r. A szak\u00e9rt\u0151 v\u00e9lem\u00e9nye szerint a S&P 500 index is vesz\u00e9lyben van, \u00e9s ha a glob\u00e1lis piacok tov\u00e1bbra is gyeng\u00fclnek, az Bitcoinra is hat\u00e1ssal lesz. A vide\u00f3 hangs\u00falyozza a r\u00f6vid t\u00e1v\u00fa keresked\u00e9si lehet\u0151s\u00e9geket a cs\u00f6kken\u0151 trendekben, k\u00fcl\u00f6n\u00f6sen egyes kriptovalut\u00e1k, mint a Solana vagy a Near eset\u00e9ben.",
     "key_points": [
-        "Dél-Korea 11%-os tőzsdei visszaesése, ami világpiaci pánikot okoz.",
-        "A Közel-Keleti konfliktus csökkenti az olaj és gáz ellátást, súlyosan érintve az európai gazdaságokat.",
-        "A S&P 500 index gyengesége és a potenciális hatása a Bitcoin piaci helyzetére."
+        "D\u00e9l-Korea 11%-os t\u0151zsdei visszaes\u00e9se, ami vil\u00e1gpiaci p\u00e1nikot okoz.",
+        "A K\u00f6zel-Keleti konfliktus cs\u00f6kkenti az olaj \u00e9s g\u00e1z ell\u00e1t\u00e1st, s\u00falyosan \u00e9rintve az eur\u00f3pai gazdas\u00e1gokat.",
+        "A S&P 500 index gyenges\u00e9ge \u00e9s a potenci\u00e1lis hat\u00e1sa a Bitcoin piaci helyzet\u00e9re."
     ],
     "main_topics": [
-        "Globális tőzsdei helyzet",
-        "Kriptovaluta piaci elemzés"
+        "Glob\u00e1lis t\u0151zsdei helyzet",
+        "Kriptovaluta piaci elemz\u00e9s"
     ],
     "chart_values": {
         "sentiment 1": 20
-    }
+    },
+    "author": "Ivan on Tech"
 }
