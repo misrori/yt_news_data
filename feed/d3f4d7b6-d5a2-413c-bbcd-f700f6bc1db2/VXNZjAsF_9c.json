@@ -1,0 +1,20 @@
+{
+    "video_id": "VXNZjAsF_9c",
+    "title": "BlackRock Now Controls Bitcoin's Future",
+    "publish_date": "2026-03-08 12:45:05+00:00",
+    "feed_id": "d3f4d7b6-d5a2-413c-bbcd-f700f6bc1db2",
+    "output_language": "hu",
+    "summary": "A videó a Bitcoin jövőjével kapcsolatos súlyos aggályokat vet fel, miután Mark Carpellis, a Mount Gox korábbi vezérigazgatója egy javaslatot tett a Bitcoin Core GitHub-ján, amely lehetővé tenné a 2011-ben ellopott Bitcoinok visszaszerzését. A javasolt kód egy hard fork-ot eredményezhet, amely alapjaiban kérdőjelezheti meg a Bitcoin decentralizált konszenzusát és a történelem változtathatatlanságát. Habár a közösség gyorsan elutasította a javaslatot, a videó arra figyelmeztet, hogy a Wall Street által birtokolt ETF-ek egy újfajta kormányzási hatalmat adtak a hagyományos pénzügyeknek, így a Bitcoin jövője egyre inkább függ a nagybefektetőktől.",
+    "key_points": [
+        "Mark Carpellis javaslata veszélyezteti a Bitcoin immutabilitásának illúzióját.",
+        "A Bitcoin közössége gyorsan elutasította a javaslatot, de a Wall Street hatása aggasztó.",
+        "A BTC ETF-ek által gyakorolt kormányzás megkérdőjelezheti a Bitcoin decentralizált konszenzusát."
+    ],
+    "main_topics": [
+        "Bitcoin kormányzás",
+        "Kriptovaluta hard fork"
+    ],
+    "chart_values": {
+        "sentiment 1": 30
+    }
+}

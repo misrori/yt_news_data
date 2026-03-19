@@ -1,0 +1,20 @@
+{
+    "video_id": "g-dTRbXPGw0",
+    "title": "The ETF Lie Is Hiding Bitcoin's Bottom",
+    "publish_date": "2026-03-06 18:00:51+00:00",
+    "feed_id": "d3f4d7b6-d5a2-413c-bbcd-f700f6bc1db2",
+    "output_language": "hu",
+    "summary": "A videó bemutatja, hogy a Bitcoin jelenlegi piaci helyzetét nemcsak a tőzsdén történő kiáramlások, hanem egy bonyolultabb háttérmechanizmus is befolyásolja. Az ETF-el kapcsolatos kiáramlások a Bitcoin iránti intézményi érdeklődés csökkenését sugallják, azonban az igazi helyzet az, hogy BlackRock mögött jelentős vásárlások zajlanak. A szakszerű elemzés alapján kiderül, hogy az ETF struktúra és a derivatív piac működése révén a piaci hangulat váltakozása sokkal inkább a traderek és a kisbefektetők átgondolatlan döntéseinek következménye, mintsem a mögöttes valós kereslet csökkenése. Valójában a nagybefektetők a pánikban eladott Bitcoinot felvásárolják, míg a retail befektetők rossz helyzetben vannak, mivel a hírek torzítják a valóságot.",
+    "key_points": [
+        "A Bitcoin mostani RSI értéke a legalacsonyabb a történelem során.",
+        "A BlackRock jelentős mennyiségű Bitcoin-vásárlása a piaci kiáramlások ellenére történik.",
+        "Az ETF kiáramlások mechanikai okok miatt nem tükrözik az intézményi érdeklődés csökkenését."
+    ],
+    "main_topics": [
+        "Bitcoin piaci helyzete",
+        "ETF struktúra és intézményi vásárlások"
+    ],
+    "chart_values": {
+        "sentiment 1": 30
+    }
+}

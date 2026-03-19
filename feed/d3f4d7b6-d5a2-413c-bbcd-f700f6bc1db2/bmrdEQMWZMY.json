@@ -1,0 +1,20 @@
+{
+    "video_id": "bmrdEQMWZMY",
+    "title": "Is Jane Street Manipulating the Crypto Market?",
+    "publish_date": "2026-02-28 14:01:04+00:00",
+    "feed_id": "d3f4d7b6-d5a2-413c-bbcd-f700f6bc1db2",
+    "output_language": "hu",
+    "summary": "A Terraform Labs által benyújtott keresetben az áll, hogy a Jane Street Group manipulálta a kripto piacot a TerraUSD és Luna összeomlása során, kihasználva a belső információkat. A kereset szerint a Jane Street kereskedői előnyhöz jutottak azáltal, hogy valós időben hozzáfértek Terraform információihoz, ami lehetővé tette számukra, hogy időben csökkentsék kockázataikat, miközben a piacon pánik tapasztaltak. A Jane Street tagadja a vádakat, és a pert megalapozatlannak tartja, mondván, hogy a veszteségeket a Terraform hiba okozta. A bírósági eljárás kimenetele a felfedezési szakaszra és az azon belüli bizonyítékok összegyűjtésére fog épülni, amely elengedhetetlen a vádak alátámasztásához. Ezen túlmenően a per megítélheti, hogy a piacon lévő big trading firmek tevékenységei milyen hatással voltak a kripto ökoszisztémára, egy olyan időszakban, amikor a bizalom már így is csökkent a közösségben.",
+    "key_points": [
+        "A Terraform Labs keresetet indított a Jane Street Group ellen, állítva, hogy manipulálták a kripto piacot.",
+        "Jane Street tagadja a vádakat, és a pert az állítások megalapozatlanságára hivatkozva akarja megölni.",
+        "A bírósági eljárás kimenetele nagyban függ a felfedezési szakasztól és a bizonyítékok bemutatásától."
+    ],
+    "main_topics": [
+        "Kripto piac manipuláció",
+        "Belső információk felhasználása"
+    ],
+    "chart_values": {
+        "sentiment 1": 30
+    }
+}

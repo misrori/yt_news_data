@@ -1,0 +1,20 @@
+{
+    "video_id": "YJn5RPCmB84",
+    "title": "Blackrock's Crypto Trap",
+    "publish_date": "2026-03-05 14:00:51+00:00",
+    "feed_id": "d3f4d7b6-d5a2-413c-bbcd-f700f6bc1db2",
+    "output_language": "hu",
+    "summary": "A BlackRock által elindított tokenizációs hullám célja a hagyományos pénzügyek és a kriptovaluták integrálása, de a háttérben álló szándékok aggasztóak lehetnek. A Wall Street ennek révén nem csupán az eszközök tokenizációját célzó efficienciát, hanem a kriptovaluták feletti kontroll megteremtését is próbálja érvényesíteni, amely a decentralizáció elveit veszélyezteti. Az újonnan bevezetett ERC 3643 szabvány megköveteli a felhasználók azonosítását, ami megkérdőjelezi a decentralizált pénzügyi rendszerek működését. Az intézmények által irányított tokenizáció ördögi körbe helyezi a kriptovaluták alapelveit, és aggodalmakat vet fel a jövőbeli pénzügyi rendszerek átalakulásával kapcsolatban.",
+    "key_points": [
+        "BlackRock új tokenizációs alapja, a Bidd, a hagyományos pénzügyek és a kriptovaluták közötti hidat épít.",
+        "A tokenizált eszközök mozgása szigorú KYC és AML ellenőrzés alatt áll.",
+        "A decentralizált pénzügyi rendszerek érdekeit veszélyezteti a Wall Street ellentmondásos integrációja."
+    ],
+    "main_topics": [
+        "Tokenizációs hullám",
+        "Intézményi ellenőrzés"
+    ],
+    "chart_values": {
+        "sentiment 1": 30
+    }
+}
