@@ -1,0 +1,22 @@
+{
+    "video_id": "gMoBQfVf0Q0",
+    "title": "Could Monad Be the Future of Ethereum Scaling?",
+    "channel_url": "https://www.youtube.com/@coingecko",
+    "author": "CoinGecko",
+    "publish_date": "2026-03-23 10:36:16+00:00",
+    "feed_id": "d3f4d7b6-d5a2-413c-bbcd-f700f6bc1db2",
+    "output_language": "hu",
+    "summary": "A Monad egy újonnan létrejött layer 1 blockchain, amely az Ethereum virtual machine-t (EVM) célozza meg, lehetővé téve a már meglévő Ethereum alkalmazások zökkenőmentes átvitelét. A Monad párhuzamos tranzakció-feldolgozást alkalmaz, amely a hagyományos EVM láncokhoz képest jelentősen megnöveli a sebességet és csökkenti a tranzakciós díjakat. A skálázhatóságra orientált megoldásai lehetővé teszik, hogy a platform versenyezzen a nagy tranzakciós teljesítménnyel, miközben megőrzi az Ethereum kompatibilitását. Az eddigi tesztelési eredmények ígéretesek voltak, a következő kihívás a hosszú távú stabilitás és a felhasználói aktivitás fenntartása lesz, míg a verseny egyre erősödik a piacon.",
+    "key_points": [
+        "Monad párhuzamos tranzakció-feldolgozást alkalmaz, amely gyorsabb végrehajtást tesz lehetővé.",
+        "A platform teljes mértékben kompatibilis az Ethereum EVM-mel, könnyen átvive a meglévő alkalmazásokat.",
+        "A jövőbeli sikeréhez a felhasználói aktivitás fenntartására és a verseny kezelésére van szüksége."
+    ],
+    "main_topics": [
+        "Ethereum skálázás",
+        "Blockchain technológiák"
+    ],
+    "chart_values": {
+        "sentiment 1": 70
+    }
+}
