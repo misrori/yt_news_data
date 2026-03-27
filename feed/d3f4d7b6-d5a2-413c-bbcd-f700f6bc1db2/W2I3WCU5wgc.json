@@ -1,0 +1,22 @@
+{
+    "video_id": "W2I3WCU5wgc",
+    "title": "The Cold Wallet Myth",
+    "channel_url": "ttps://www.youtube.com/@CoinBureau",
+    "author": "Coin Bureau",
+    "publish_date": "2026-03-27 14:00:46+00:00",
+    "feed_id": "d3f4d7b6-d5a2-413c-bbcd-f700f6bc1db2",
+    "output_language": "hu",
+    "summary": "A videó az önálló kripto-tárolás kockázatait tárgyalja, hangsúlyozva, hogy a fizikai sebezhetőség és az emberi hiba nagyobb veszélyt jelentenek a digitális vagyonra, mint a hackertámadások. A jelenlegi cold wallet rendszer, amely egyetlen 24 szavas helyreállító kulcsra épít, komoly kockázatokat rejteget, mivel ha ez a kulcs elveszik vagy megsemmisül, a felhasználó elveszítheti vagyonát. A videó javasolja a multi-signature megoldások és a társadalmi helyreállító pénztárcák alkalmazását, mint a biztonságosabb alternatívát a hagyományos tárolási módszerekkel szemben. Az előadás végén kiemelik, hogy a kripto-védelem jövője a geo-disztribúcióban, intelligens redundanciában és a kriptográfiai reziliencia növelésében rejlik.",
+    "key_points": [
+        "A fizikai közelség és emberi hiba jelentheti a legnagyobb veszélyt az önálló tárolásnál.",
+        "A single signature model komoly visszásságokat hordoz, mint egyetlen ponton való kudarc.",
+        "Az új biztonsági megoldások, mint a multi-signature és társadalmi helyreállító modellek mellett érvel."
+    ],
+    "main_topics": [
+        "Önálló tárolás kockázatai",
+        "Modern biztonsági megoldások a kriptovalutákhoz"
+    ],
+    "chart_values": {
+        "sentiment 1": 30
+    }
+}
