@@ -1,0 +1,22 @@
+{
+    "video_id": "Ykwi-3S1bYs",
+    "title": "Is Your Bitcoin Safe? The Urgent Quantum Computing Risk",
+    "channel_url": "ttps://www.youtube.com/@CoinBureau",
+    "author": "Coin Bureau",
+    "publish_date": "2026-04-01 14:00:40+00:00",
+    "feed_id": "d3f4d7b6-d5a2-413c-bbcd-f700f6bc1db2",
+    "output_language": "hu",
+    "summary": "A kvantumszámítógépek jelentik a legnagyobb fenyegetést a Bitcoin és általában a kriptovaluták számára, mivel képesek lehetnek feltörni a Bitcoin titkosítását, amely így értéktelenné válhat. Az iparág szakemberei megosztottak abban, hogy mennyire sürgős ez a fenyegetés, de egy új Bitcoin-fejlesztési javaslat, a BIP 360, már megkezdte a munkát a kvantumrezisztencia érdekében. A Bitcoin védelmét alapvetően a pénztárcák titkosítása jelenti, és a legrégebbi címek a legkiszolgáltatottabbak. A BIP 360 azonban nem oldja meg teljesen a problémát, csupán azonnali intézkedéseket javasol, hogy felkészítse a rendszert a jövőbeli fenyegetésekre.",
+    "key_points": [
+        "A kvantumszámítógépek képesek feltörni a Bitcoin titkosítását, így hatalmas kockázatot jelentenek.",
+        "A BIP 360 fejlesztési javaslat célja a Bitcoin kvantumrezisztenciájának növelése, de csak az első lépés.",
+        "A titkosításon belül a Bitcoin pénztárcák védelme kulcsszerepet játszik a kvantumszámítógépek támadásaival szemben."
+    ],
+    "main_topics": [
+        "Kvantumszámítógépek fenyegetése",
+        "Bitcoin kvantumrezisztencia fejlesztése (BIP 360)"
+    ],
+    "chart_values": {
+        "sentiment 1": 45
+    }
+}
