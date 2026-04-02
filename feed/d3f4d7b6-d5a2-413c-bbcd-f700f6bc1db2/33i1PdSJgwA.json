@@ -1,0 +1,22 @@
+{
+    "video_id": "33i1PdSJgwA",
+    "title": "Bitcoin Mining Explained Again (We Heard You)",
+    "channel_url": "https://www.youtube.com/@coingecko",
+    "author": "CoinGecko",
+    "publish_date": "2026-04-02 10:45:35+00:00",
+    "feed_id": "d3f4d7b6-d5a2-413c-bbcd-f700f6bc1db2",
+    "output_language": "hu",
+    "summary": "A videó részletesen magyarázza el a Bitcoin bányászat folyamatát, amely nélkülözhetetlen az üzletek biztonságos rögzítéséhez és a Bitcoin kibocsátáshoz. A bányászok a tranzakciók ellenőrzésére és a blokklánc frissítésére versenyeznek, miközben a nyeremény új Bitcoin kinyerése. A bányászat munkafolyamata a 'proof of work' mechanizmusra épül, amely biztosítja a rendszer biztonságát, mivel nagy erőforrásokra van szükség a csalások elkerüléséhez. Bár a bányászat energiaigényes, a videó hangsúlyozza a decentralizált rendszer előnyeit, amelyben nincs szükség központi felügyeletre. A siker kulcsa a nehezen megoldható matematikai problémák gyors megoldása, ami folyamatosan fenntartja a Bitcoin árfolyamát és biztonságát.",
+    "key_points": [
+        "Bitcoin bányászat kulcsszerepet játszik az tranzakciók és a blokklánc biztonságában.",
+        "A bányászat folyamata 'proof of work' néven ismert és biztosítja a Bitcoin rendszer integritását.",
+        "A bányászok erőforrásokat használnak a tranzakciók további feldolgozásához, ami energiaigényes, de szükséges a decentralizált rendszer működéséhez."
+    ],
+    "main_topics": [
+        "Bitcoin bányászat",
+        "Blokklánc és decentralizáció"
+    ],
+    "chart_values": {
+        "sentiment 1": 75
+    }
+}
