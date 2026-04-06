@@ -1,0 +1,22 @@
+{
+    "video_id": "e8nFXPg3z0g",
+    "title": "$285M Solana Hack: The Attack That Changed Crypto Forever",
+    "channel_url": "ttps://www.youtube.com/@CoinBureau",
+    "author": "Coin Bureau",
+    "publish_date": "2026-04-06 14:29:57+00:00",
+    "feed_id": "d3f4d7b6-d5a2-413c-bbcd-f700f6bc1db2",
+    "output_language": "hu",
+    "summary": "2026 április 1-én a Drift Protocol, a Solana alapú decentralizált tőzsdén történt 285 millió dolláros hackelés alapjaiban változtatta meg a kripto világ fenyegetési modelljét. Az akciót észak-koreai állami szereplők hajtották végre, akik nem a kódot, hanem az embereket célozták meg egy hat hónapon át tartó kémkedési művelet keretében. A hack sikere egy hamis kereskedő cégen keresztül épített bizalomra épült, amely lehetővé tette számukra az adminisztratív irányítás átvételét anélkül, hogy kódot módosítottak volna. Az események megmutatták, hogy a decentralizált pénzügyi (DeFi) rendszerek legnagyobb gyenge pontja az emberi megbízhatóság, kihangsúlyozva a szükségességét, hogy a jövőbeni protokollok fokozzák a védelmi intézkedéseiket.",
+    "key_points": [
+        "A hack egy jól megtervezett kémkedési művelet volt.",
+        "Az észak-koreai hackerek emberi kapcsolatokat céloztak meg, nem a kódot.",
+        "A DeFi rendszerek legnagyobb gyenge pontja az emberi megbízhatóság."
+    ],
+    "main_topics": [
+        "Drift Protocol hackelése",
+        "Emberi sebezhetőség a DeFi rendszerekben"
+    ],
+    "chart_values": {
+        "sentiment 1": 20
+    }
+}
