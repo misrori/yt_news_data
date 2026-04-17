@@ -1,0 +1,22 @@
+{
+    "video_id": "8m2UUfg3nc0",
+    "title": "Is Hyperliquid’s Flaw About to Nuke Crypto?",
+    "channel_url": "ttps://www.youtube.com/@CoinBureau",
+    "author": "Coin Bureau",
+    "publish_date": "2026-04-17 14:00:13+00:00",
+    "feed_id": "d3f4d7b6-d5a2-413c-bbcd-f700f6bc1db2",
+    "output_language": "hu",
+    "summary": "A videó Hyperliquid platform kockázatait és sebezhetőségeit elemzi, különös figyelmet fordítva a közelmúltban végrehajtott hackekre, amelyeket észleltek a piacon. A Drift Protocol és a Hyperliquid közötti kapcsolatok révén a videó bemutatja, hogy a platform a decentralizált jövőbeli kereskedési volumenének 70%-át végzi, amely védtelen maradt a jól dokumentált támadási minták ellen. A North Korean hackerek által végrehajtott legutóbbi támadások a platform eddigi legnagyobb fenyegetését jelentik, és figyelmeztetnek arra, hogy egy jelentős hiba a közeljövőben végzetes következményekkel járhat a kriptoipar számára. A videó hangsúlyozza a decentralizált pénzügyi ökoszisztéma kockázatait és a Hyperliquid jövőbeni működésének alapvető problémáit.",
+    "key_points": [
+        "A Hyperliquid platform strukturális sebezhetősége lehetővé teszi a koordinált támadások végrehajtását.",
+        "A legutóbbi hackek gyorsan válságot okozhatnak az egész kriptovalutás piacon.",
+        "A platform nagy piaci részesedése miatt bármilyen gebasz katastrófát idézhet elő nemcsak a felhasználók számára, hanem a hagyományos befektetők számára is."
+    ],
+    "main_topics": [
+        "Hyperliquid biztonsági kockázatok",
+        "DeFi piacok sebezhetőségei"
+    ],
+    "chart_values": {
+        "sentiment 1": 20
+    }
+}
