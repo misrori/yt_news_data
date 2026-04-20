@@ -1,0 +1,22 @@
+{
+    "video_id": "hV7JuhA3_Y4",
+    "title": "This Hack Just Broke DeFi… And Exposed Everything",
+    "channel_url": "ttps://www.youtube.com/@CoinBureau",
+    "author": "Coin Bureau",
+    "publish_date": "2026-04-20 14:09:35+00:00",
+    "feed_id": "d3f4d7b6-d5a2-413c-bbcd-f700f6bc1db2",
+    "output_language": "hu",
+    "summary": "Az április 18-i DeFi támadás során a Kelp DAO-tól 116,500 RS ETH-ot loptak el, amely körülbelül 293 millió dollárt ér. Az exploit a Layer 0 protokoll gyenge biztonsági beállításaiból fakadt, lehetővé téve egyetlen aláíró ellenőrzését a vizsgálathoz, rendkívül kockázatos konfigurációt teremtve. A következmények kiterjedtek, mivel a felhasználók pánikba estek és 6 milliárd dollárnyi likviditást vontak ki az Aave-ből, miközben a DeFi teljes TVL-jének több mint 10 milliárd dollárral csökkent. Az esemény felhívta a figyelmet a DeFi struktúrájának gyengeségeire, a decentralizált hitelezési protokollok kihívásaira vonatkozó mélyebb integrációkra, és rávilágított, hogy a rendszerbe vetett bizalom megingott.",
+    "key_points": [
+        "A Kelp DAO-tól 293 milliós összeget loptak el, a legnagyobb DeFi exploit 2026-ban.",
+        "A támadás egyetlen aláíróra bízta a biztosítékot, aminek következtében a DeFi rendszer sebezhetővé vált.",
+        "A felhasználói pánik következtében az Aave-ből több mint 6 milliárd dollárnyi betétet vontak ki."
+    ],
+    "main_topics": [
+        "DeFi támadások",
+        "Képességek és gyengeségek a decentralizált pénzügyekben"
+    ],
+    "chart_values": {
+        "sentiment 1": 10
+    }
+}
