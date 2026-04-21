@@ -1,0 +1,22 @@
+{
+    "video_id": "D0CXDq-4dDs",
+    "title": "Is Strategy a Bitcoin Ponzi Scheme?",
+    "channel_url": "ttps://www.youtube.com/@CoinBureau",
+    "author": "Coin Bureau",
+    "publish_date": "2026-04-21 14:00:19+00:00",
+    "feed_id": "d3f4d7b6-d5a2-413c-bbcd-f700f6bc1db2",
+    "output_language": "hu",
+    "summary": "A Strategy vállalat pénzügyi struktúrája komoly kockázatokat rejt, mivel a Bitcoin értékének folyamatos növekedésén alapul, hogy fedezni tudja kötelezettségeit. A szoftverüzletága önállóan veszteséges, amely nem képes fedezni az éves 1,12 milliárd dolláros kötelezettségeit, így a cég csak új részvények kibocsátásából származó bevételeket tud felhasználni, hogy teljesítse a kifizetéseket. A Bitcoin árának csökkenése komoly problémákat okozhat, hiszen a cég kötelező részvényei és osztalékai védelme alatt álló tőke csökken. A perpetuális preferált részvények struktúrája nem biztosít tényleges fedezetet, míg az adósság a cég pénzügyi stabilitását fenyegeti. A videó végén tehetjük fel a kérdést, hogy ki fogja túlélni az esetleges piaci zűrzavart a kriptovaluta piacon.",
+    "key_points": [
+        "A Strategy vállalat pénzügyi szerkezete kockázatos, a Bitcoin növekedésére támaszkodik.",
+        "A szoftverüzletága veszteséges, és ez nem fedik a kötelezettségeit.",
+        "Bármilyen Bitcoin árfolyamcsökkenés destabilizálhatja a cég tőkeszerkezetét és a kriptopiacot."
+    ],
+    "main_topics": [
+        "Finanszírozási struktúra",
+        "Kockázatok a Bitcoin árfolyamcsökkenése miatt"
+    ],
+    "chart_values": {
+        "sentiment 1": 20
+    }
+}
